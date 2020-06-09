@@ -4,22 +4,22 @@
 
 ## Project Status
 <table>
-  <tr>
-    <th>Problem Num</th>
-    <th>Date</th>
-    <th>Status</th>
-  </tr>
-  <tr>
+  	<tr>
+    		<th>Problem Num</th>
+    		<th>Date</th>
+    		<th>Status</th>
+  	</tr>
+  	<tr>
 		<td>62</td>
 		<td>27 May 2020</td>
 		<td>Completed</td>
 	</tr>
-	 <tr>
+	<tr>
 		<td>63</td>
 		<td>28 May 2020</td>
 		<td>Completed</td>
 	</tr>
-	 <tr>
+	<tr>
 		<td>64</td>
 		<td>1 June 2020</td>
 		<td>Completed</td>
@@ -29,9 +29,19 @@
 		<td>2 June 2020</td>
 		<td>Completed</td>
 	</tr>
-		<tr>
+	<tr>
 		<td>66</td>
 		<td>7 June 2020</td>
+		<td>Completed</td>
+	</tr>
+	<tr>
+		<td>67</td>
+		<td>N/A</td>
+		<td>In Progress</td>
+	</tr>
+	<tr>
+		<td>68</td>
+		<td>9 June 2020</td>
 		<td>Completed</td>
 	</tr>
 </table>
