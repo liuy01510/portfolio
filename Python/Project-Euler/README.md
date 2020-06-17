@@ -44,4 +44,14 @@
 		<td>9 June 2020</td>
 		<td>Completed</td>
 	</tr>
+	<tr>
+		<td>69</td>
+		<td>15 June 2020</td>
+		<td>Completed</td>
+	</tr>
+	<tr>
+		<td>70</td>
+		<td>17 June 2020</td>
+		<td>Completed</td>
+	</tr>
 </table>
